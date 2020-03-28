@@ -19,8 +19,7 @@ steps:
   displayName: 'Run a multi-line script'
 {
 
-if(a==1)
-{a=300;}
-print(a);
+
+print('300');
 
 }
